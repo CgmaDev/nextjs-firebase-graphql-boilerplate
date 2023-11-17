@@ -10,12 +10,10 @@ const HomeScreen: React.FC<HomeScreenProps> = () => {
     <>
       <div className={`${styles.container}`}>
         <div className={`${styles.body}`}>
-          <div className={`${styles.logo}`}>
-            <Image src={'/images/logo.png'} width={235} height={55} alt="Cgma Dev logo" />
-          </div>
+          <Image priority src={'/images/logo.png'} width={235} height={55} alt="Cgma Dev logo" />
           <div className={`${styles.content}`}>
-            <div className={`${styles.title}`}>NextJs.14 - Boilerplate</div>
-            <div className={`${styles.description}`}>
+            <div className={`${styles.title} font-semibold text-3xl`}>NextJs.14 - Boilerplate</div>
+            <div className={`${styles.description} mt-2`}>
               This is NextJs.14 Project with Typescript + TailwindCss+ Prettier + Storybook + Sass
             </div>
           </div>
