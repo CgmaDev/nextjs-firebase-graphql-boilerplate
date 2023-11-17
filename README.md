@@ -1,4 +1,5 @@
 ## NextJs.14 - Boilerplate
+  Description:: ```This is a NextJs 14 Project with TypeScript + Prettier + Storybook + Sass + TailwindCSS```
 
 ## Author:: 
 ```bash
@@ -31,4 +32,6 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+
 # nextjs-boilerplate
