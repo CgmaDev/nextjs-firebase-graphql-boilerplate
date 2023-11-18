@@ -1,13 +1,13 @@
 {
-  "name": "nextjs-boilerplate",
-  "description": "This is NextJs.14 Project with Typescript + TailwindCss+ Prettier + Storybook + Sass",
+  "name": "nextjs-firebase-graphql-boilerplate",
+  "description": "This is a NextJs 14 Project with TypeScript + GraphQL + Firebase + Prettier + Storybook + Sass + TailwindCSS",
   "version": "0.1.0",
   "private": true,
   "contributors": [],
   "author": "cgmadeveloper <omece460@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CgmaDev/nextjs-boilerplate.git"
+    "url": "git+https://github.com/CgmaDev/nextjs-firebase-graphql-boilerplate.git"
   },
   "scripts": {
     "dev": "next dev",

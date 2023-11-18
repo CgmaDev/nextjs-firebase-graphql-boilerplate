@@ -1,5 +1,5 @@
-## NextJs.14 - Boilerplate
-  Description:: ```This is a NextJs 14 Project with TypeScript + Prettier + Storybook + Sass + TailwindCSS```
+## NextJs.14 + Firebase + GraphQL + Client - Boilerplate
+  Description:: ```This is a NextJs 14 Project with TypeScript + GraphQL + Firebase + Prettier + Storybook + Sass + TailwindCSS```
 
 ## Author:: 
 ```bash
@@ -34,4 +34,4 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 
-# nextjs-boilerplate
+# nextjs-firebase-graphql-boilerplate
